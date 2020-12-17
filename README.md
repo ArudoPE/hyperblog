@@ -11,9 +11,5 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/clases/git
 * Las personalidades múltiples de Freddy
 * Creado por ArudoPE
 * Incluye ejemplos en Windows, Linux y Mac.
-<<<<<<< HEAD
-=======
 * El ejemplo incluye ejemplos en Windows, Linux y Mac
->>>>>>> 0313a2a422b504890dc9959cb24caf00c14620b2
-
 Y como un amable recordatorio: **Este readme.md es una broma**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y [**mejor ve el curso**](https://platzi.com/clases/git-github/ "mejor ve el curso").
